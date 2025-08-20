@@ -4,7 +4,6 @@
   Hey, I'm <span style="color:#00ff9f;">PuffProtocol</span> 👾
 </h1>
 
-<!-- Terminal neon animado -->
 <p align="center">
   <b style="color:#00ff9f;">$ Initializing PuffProtocol's Lab...</b><br>
   <b style="color:#00ff9f;">$ Scanning web apps...</b><br>
@@ -50,7 +49,6 @@
 
 ---
 
-<!-- Badges personalizadas do nível -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Offensive%20Security%20Learner-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Rank-Web%20Pentester%20%7C%20Bug%20Bounty-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
@@ -66,7 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuffProtocol&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff9f&text_color=ffffff" width="48%" />
 </p>
 
-<!-- Gráfico animado estilo hacker -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
