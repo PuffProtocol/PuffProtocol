@@ -12,11 +12,6 @@
   <b style="color:#00ff9f;">$ Access granted ✅</b>
 </p>
 
-<!-- Banner hacker/anônimo -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVuYmM0Z2lmbnE0engxOXJobWdiNmQ1aXFxaDM4ajQ0ajZlbmRsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13AN8X7jBIm15m/giphy.gif" width="600"/>
-</p>
-
 ---
 
 ## 🕶️ About Me
