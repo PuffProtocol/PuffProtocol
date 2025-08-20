@@ -21,7 +21,6 @@
 🎯 Areas of Interest: **Malware Development**, **Exploit Development**, **Intelligent Automation**
 📚 Currently Studying: **Code Development**  
 📍 Exploring **Zero-Days**, **CVE Hunting** and **Advanced Recon**  
-🌐 Passionate about **Cybersecurity**, **Network Attacks** and **Reverse Engineering**
 
 ---
 
