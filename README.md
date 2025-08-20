@@ -5,6 +5,13 @@
 </h1>
 
 <p align="center">
+  <b style="color:#00ff9f;">$ Initializing PuffProtocol's Lab<span style="animation: blink 1s infinite;">█</span></b><br>
+  <b style="color:#00ff9f;">$ Scanning web apps<span style="animation: blink 1s infinite;">█</span></b><br>
+  <b style="color:#00ff9f;">$ Exploring vulnerabilities<span style="animation: blink 1s infinite;">█</span></b><br>
+  <b style="color:#00ff9f;">$ Access granted ✅<span style="animation: blink 1s infinite;">█</span></b>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVuYmM0Z2lmbnE0engxOXJobWdiNmQ1aXFxaDM4ajQ0ajZlbmRsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13AN8X7jBIm15m/giphy.gif" width="600"/>
 </p>
 
