@@ -18,9 +18,10 @@
 
 💻 Ethical Hacker | Web Pentester | Security Researcher  
 ⚡ Specializing in **Web Exploitation, Bug Bounty & Offensive Security**  
-🎯 Areas of Interest: **Malware Development**, **Exploit Development**, **Intelligent Automation**
-📚 Currently Studying: **Code Development**  
+🎯 Areas of Interest: **Malware Development**, **Exploit Development**, **Intelligent Automation** 
 📍 Exploring **Zero-Days**, **CVE Hunting** and **Advanced Recon**  
+🌐 Passionate about **Cybersecurity**, **Network Attacks** and **Reverse Engineering**
+📚 Currently Studying: **Code Development**  
 
 ---
 
